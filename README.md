@@ -50,17 +50,24 @@
 ![JSON](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<a href="https://github.com/kumol/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumol&repo=github-readme-stats" />
+</a>
 <p align="center">
   <a href="https://github.com/abbcdev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=turza006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=turza006&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumol&layout=compact)](https://github.com/kumol/github-readme-stats)
 
-![abbcdev's G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=turza006&theme=redical&hide_border=true&area=true)
+![kumol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumol&show_icons=true&theme=radical)
+  ![abbcdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbcdev&show_icons=true&theme=radical)
 </p>
 
+
 ### 🤝🏻 &nbsp;Connect with Me
+
+[![kumol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kumol)](https://github.com/kumol/github-readme-stats)
 
 <p align="center">
   <a href="mailto:sharifrezq@gmail.com"><img src="https://img.shields.io/badge/-Email Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
